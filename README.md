@@ -5,19 +5,22 @@ The app is hosted on https://desearch.herokuapp.com/ **[Note: Please do not quer
 <h2>Installation</h2>
 1 Clone the repository and change dir to the project dir </br>
 
-`git clone https://github.com/abhilashdzr/DSA-Search.git && cd DSA-Search `</br>
+`git clone https://github.com/abhilashdzr/DSA-Search.git`</br>
 
-2 Start and activate a virtual env `python3 -m venv env` `source env/bin/activate` </br>
+2 Change to project directory
+  `cd ./DSA-Search `
 
-3 Install node `https://nodejs.org/en/download/`
+3 Start and activate a virtual env `python3 -m venv env` `source env/bin/activate` </br>
 
-4 Install dependencies
+4 Install node `https://nodejs.org/en/download/`
+
+5 Install dependencies
 `pip install -r requirements.txt`
 `npm install`
 
-5 Run the server `npm start`</br>
+6 Run the server `npm start`</br>
 
-6 Log in to `localhost:3000`
+7 Log in to `localhost:3000`
 
 <h2>POINTS to NOTE when querying</h2>
 1. See that the spellings of the words are correct </br>
