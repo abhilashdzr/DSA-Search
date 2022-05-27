@@ -9,6 +9,9 @@
   padding: 5% 40% 1% 35%;
   font-family: "Pacifico", cursive;
 }
+.title {
+  font-weight: bold;
+}
 div.top {
   /* background-color: #f4b2f1; */
   background-color: #f5b8f2;
