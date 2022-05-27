@@ -3,9 +3,9 @@ A Search Engine to hunt DSA problems from Codeforces, Codechef and Leetcode.
 The app is hosted on https://desearch.herokuapp.com/ **[Note: Please do not query over there, the app will break]**
 
 <h2>Installation</h2>
-1 Clone the repository </br>
+1 Clone the repository and change dir to the project dir </br>
 
-`git clone https://github.com/abhilashdzr/DSA-Search.git `</br>
+`git clone https://github.com/abhilashdzr/DSA-Search.git && cd DSA-Search `</br>
 
 2 Start and activate a virtual env `python3 -m venv env` `source env/bin/activate` </br>
 
